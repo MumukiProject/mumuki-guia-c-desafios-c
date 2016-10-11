@@ -7,6 +7,6 @@ describe ("primerPar") {
   } end
   
   it ("encuentra el primer número par de un arreglo con 3 elementos") {
-    should_int(primerPar(arregloTresElementos)) be equal to(4);
+    should_int(primerPar(arregloTresElementos)) be equal to(8);
   } end
 } end
