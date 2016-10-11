@@ -15,6 +15,6 @@ describe ("precioEntrada") {
   } end  
   
   it ("estudiantes mayores pagan tarifa común") {
-    should_int(precioEntrada(50, 1)) be equal to(tarifaCmoun);
+    should_int(precioEntrada(50, 1)) be equal to(tarifaComun);
   } end  
 } end
