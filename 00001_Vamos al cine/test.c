@@ -7,7 +7,7 @@ describe ("precioEntrada") {
   } end
   
   it ("adultos mayores tienen descuento") {
-    should_int(precioEntrada(65, 0)) be equal to(tarifaConDescuento);
+    should_int(precioEntrada(66, 0)) be equal to(tarifaConDescuento);
   } end
   
   it ("estudiantes hasta 35 años tienen descuento") {
