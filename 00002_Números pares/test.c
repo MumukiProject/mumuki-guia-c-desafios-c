@@ -1,9 +1,9 @@
 describe ("primerPar") {
   int arregloSeisElementos[6] = {21, 3, 4, 5, 8, 20};
   int arregloTresElementos[3] = {5, 8, 20};
-  int arregloCincoElementos[5] = {45, 43, 36, 65, 14};
+  int arregloCincoElementos[5] = {45, 43, 37, 65, 14};
 
-  it ("el primer par del arreglo {45, 43, 36, 65, 14} es 14") {
+  it ("el primer par del arreglo {45, 43, 37, 65, 14} es 14") {
     should_int(primerPar(arregloCincoElementos)) be equal to(14);
   } end
   
