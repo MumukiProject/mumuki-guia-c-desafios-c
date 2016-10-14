@@ -5,7 +5,7 @@ describe ("promedio") {
   } end
   
   it ("el promedio de {10, 7, 8, 6} es 7.75") {
-    int notas[3] = {10, 7, 8, 6};
+    int notas[4] = {10, 7, 8, 6};
     should_int(promedio(notas, 4)) be equal to(7.75);
   } end
   
