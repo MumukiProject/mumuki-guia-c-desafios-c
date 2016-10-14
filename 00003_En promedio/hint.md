@@ -1,0 +1,1 @@
+Recordá que un promedio se calcula sumando todas las notas y luego dividiendo este número por la cantidad total. :wink:
