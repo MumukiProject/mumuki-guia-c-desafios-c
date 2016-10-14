@@ -1,1 +1,1 @@
-promedio
+Escribí la función `promedio`, que reciba por parámetro el arreglo con las notas de un estudiante y la longitud del mismo y devuelva el promedio de las mismas.
