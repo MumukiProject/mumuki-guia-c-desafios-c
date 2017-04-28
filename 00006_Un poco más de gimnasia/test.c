@@ -4,7 +4,7 @@ describe ("entrandoEnCalor") {
   it ("si x vale 4, ahora valdrá 5") {
     x = 4;
     
-    ejecutar()
+    ejecutar();
     
     should_int(x) be equal to(5);
   } end
@@ -12,7 +12,7 @@ describe ("entrandoEnCalor") {
   it ("si x vale 5, ahora valdrá 6") {
     x = 5;
     
-    ejecutar()
+    ejecutar();
     
     should_int(x) be equal to(6);
   } end
