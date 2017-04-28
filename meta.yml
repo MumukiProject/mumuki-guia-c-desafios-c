@@ -1,5 +1,5 @@
 ---
-name: Desafios C
+name: Desafíos C
 locale: es
 type: practice
 beta: false
@@ -7,9 +7,9 @@ teacher_info: ''
 language: c
 id_format: "%05d"
 order:
+- 5
+- 6
 - 1
 - 2
 - 3
 - 4
-- 5
-- 6
