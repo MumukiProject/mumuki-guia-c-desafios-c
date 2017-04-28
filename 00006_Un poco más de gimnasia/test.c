@@ -1,4 +1,3 @@
-int x = 0;
 
 describe ("entrandoEnCalor") {
   it ("si x vale 4, ahora valdrá 5") {
