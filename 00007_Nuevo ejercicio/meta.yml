@@ -1,10 +1,10 @@
 ---
 tags: []
 layout: input_right
-editor: code
+editor: text
 type: problem
 extra_visible: false
-teacher_info: ''
+language: text
 manual_evaluation: false
 choices: []
-name: El promedio
+name: Nuevo ejercicio
